@@ -316,11 +316,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Miguel Galvez** - [GitHub Profile](https://github.com/yourusername)
+**Miguel Galvez** - [GitHub Profile](https://github.com/MiguelGalvez81)
 
 ## Support
 
-For support, email: miguel@example.com or open an issue on GitHub.
+For support, email: miguel_galvez81@hotmail.com or open an issue on GitHub.
 
 ---
 
